@@ -1,10 +1,10 @@
 Tmux Battery Status Display
 
 Charging:
-![alt text](https://www.dropbox.com/s/4gcznfkrkwhdqlb/chargingcon48.png "Charging")
+![Charging](pics/charging.png)
 On Battery Power:
-![alt text](https://www.dropbox.com/s/ldehndaslkt2dj7/on_battery.pngcon48.png "On Battery")
+![On Battery](pics/on_battery.png)
 Full Charge on Battery Power:
-![alt text](https://www.dropbox.com/s/tll07ku9bi58bsq/full_on_battery.pngcon48.png "Full on Battery")
+![Full on Battery](pics/full_on_battery.png)
 Full on AC:
-![alt text](https://www.dropbox.com/s/n0hjhurcy0tm53g/full_on_ac.png "Full On Battery")
+![Full on AC](pics/full_on_ac.png)
